@@ -1,5 +1,7 @@
 <?php
 
+//    2341. Maximum Number of Pairs in Array
+
 function numberOfPairs($nums) {
 
     $num_counts = array_count_values($nums);
